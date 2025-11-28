@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">SunnyWeather</string>
-    <string name="hint">输入地址</string>
+    <string name="hint">请输入想要查询天气的城市</string>
 </resources>
