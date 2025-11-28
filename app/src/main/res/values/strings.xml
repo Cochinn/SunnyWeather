@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">SunnyWeather</string>
+    <string name="app_name">鱼鱼天气</string>
     <string name="hint">请输入想要查询天气的城市</string>
 </resources>
